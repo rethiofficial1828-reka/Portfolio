@@ -1,0 +1,46 @@
+{
+  "certifications": [
+    {
+      "year": "2026",
+      "title": "Internship in Cyber Security",
+      "issuer": "Vectonix Technologies",
+      "description": "Completed a 1-Month Internship Program in Cyber Security.",
+      "image": "certificate/certificate.jpeg"
+    },
+    {
+      "year": "2026",
+      "title": "Project: AI-Generated Image Verification",
+      "issuer": "Vectonix Technologies",
+      "description": "Successfully completed this Cyber Security project during the internship program.",
+      "image": "certificate/certificate 2.jpeg"
+    },
+    {
+      "year": "2026",
+      "title": "Project: AuraCheck",
+      "issuer": "Vectonix Technologies",
+      "description": "AI-Powered Image Authenticity and Metadata Analysis System (Cyber Security domain).",
+      "image": "certificate/certificate 3.jpeg"
+    },
+    {
+      "year": "2026",
+      "title": "Project: SportsFest Portal",
+      "issuer": "Vectonix Technologies",
+      "description": "College Sports Events Portal (Full Stack Development domain).",
+      "image": "certificate/certificate 4.jpeg"
+    }
+  ],
+  "achievements": [
+    {
+      "year": "2025",
+      "title": "Completed 50+ Security Labs",
+      "issuer": "TryHackMe / HackTheBox",
+      "description": "Demonstrated consistent effort in solving practical security challenges and CTFs."
+    },
+    {
+      "year": "2026",
+      "title": "First Portfolio Launch",
+      "issuer": "Personal Milestone",
+      "description": "Successfully built and deployed a professional cybersecurity portfolio to showcase skills."
+    }
+  ]
+}
